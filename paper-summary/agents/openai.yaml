@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Summary（文献总结）"
+  short_description: "三层结构深度解析一篇文献并输出 Markdown 报告"
+  default_prompt: "请使用 $paper-summary 对这篇文献执行三层深度解构，并输出 Markdown 报告。"
