@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31939170/README.md)
-# my-coding-trial
+# Paper Summary Skill
 
 一个面向 Codex 的文献阅读 Skill：对单篇中英文期刊论文或学位论文进行三层深度解构，输出结构化的 Markdown 阅读报告。
 
